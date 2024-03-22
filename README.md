@@ -5,13 +5,7 @@
 
 - 🔭 I’m currently working on **fixing my life**
 
-- 🌱 I’m currently learning **Python, HTML/CSS/JS/TS**
-
-- 💬 Ask me about **don't ask me about javascript**
-
 - 📫 How to reach me **medianhq@gmail.com**
-
-- ⚡ Fun fact **amogus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
