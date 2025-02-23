@@ -1,16 +1,8 @@
 <h1 align="center">Hiya! I'm Wisdoms.</h1>
 <h3 align="center">Front-end, UI/UX.</h3>
 
-<p align="left"> <a href="https://twitter.com/wisdawms" target="blank"><img src="https://img.shields.io/twitter/follow/wisdawms?logo=twitter&style=for-the-badge" alt="wisdawms" /></a> </p>
-
-- 🔭 I’m currently working on **fixing my life**
-
-- 📫 How to reach me **medianhq@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wisdawms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wisdawms" height="30" width="40" /></a>
-<a href="https://instagram.com/wizdawms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wizdawms" height="30" width="40" /></a>
+<p align="left"> 
+  
 <a href="https://www.behance.net/wisdawms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="wisdawms" height="30" width="40" /></a>
 </p>
 
